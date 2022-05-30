@@ -18,4 +18,6 @@ Modo de Uso:
 
 -senhas (Wordlist da senha aleatoria que ira identificar as senhas certas)
 
+Digite assim no terminal: BRUTE-FORCE-LETRAS-CERTAS.py -url [Opcao] -users [Opcao] -certo [Opcao] -senhas [Opcao] 
+
 Boa invasao!
